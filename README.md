@@ -8,7 +8,7 @@ A custom perk script for **Call of Duty: Black Ops II Zombies**, built for Pluto
 
 ## What is Amm-O-Matic?
 
-Amm-O-Matic is a cut World at War Zombies perk that maxes out your current weapon's reserve ammo when purchased—giving you an on-demand Max Ammo for high-round survival.
+Amm-O-Matic is a cut World at War Zombies perk that maxes out your current weapon's reserve ammo when purchased—giving you an on-demand Max Ammo for high-round survival.The perk was likely scrapped because providing Max Ammo would have undermined the core Zombies mechanic of ammo conservation.
 
 ## Requirements
 
