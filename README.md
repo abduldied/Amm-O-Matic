@@ -8,7 +8,7 @@ A custom perk script for **Call of Duty: Black Ops II Zombies**, built for Pluto
 
 ## What is Amm-O-Matic?
 
-Amm-O-Matic is a custom perk-a-cola machine concept for Black Ops 2 Zombies, implemented as a GSC script for the Plutonium client. *(Add a short description here of what the perk actually does in-game — e.g. what buff it grants, cost, cooldown, etc. — so players know what they're getting before they install it.)*
+Amm-O-Matic is a cut World at War Zombies perk that maxes out your current weapon's reserve ammo when purchased—giving you an on-demand Max Ammo for high-round survival.
 
 ## Requirements
 
