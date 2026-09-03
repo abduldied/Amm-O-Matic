@@ -42,6 +42,6 @@ This is an unofficial, fan-made modification for use with Plutonium. It is not a
 ## Updates
 
 supported maps:
-zm_theater // Kino Der Toten
-zm_prototype // Nacht der Untoten
-zm_factory // Der Riese
+- zm_theater // Kino Der Toten
+- zm_prototype // Nacht der Untoten
+- zm_factory // Der Riese
