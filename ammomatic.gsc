@@ -34,9 +34,32 @@ spawn_ammomatic()
 {
     level waittill("initial_blackscreen_passed");
 
-    // Coordinates for the machine
-    origin = (-160, -812, 80); 
-    angles = (0, 45, 0);
+    map = getDvar("mapname");
+    
+    origin = (0, 0, 0);
+    angles = (0, 0, 0);
+
+    // Set coordinates based on the active map
+    switch(map)
+    {
+        case "zm_theater": // Kino der Toten
+            origin = (-160, -812, 80);
+            angles = (0, 45, 0);
+            break;
+
+        case "zm_prototype": // Nacht der Untoten
+            origin = (-163, -281, 1);
+            angles = (0, -90, 0);
+            break;
+
+        case "zm_factory": // Der Riese
+            origin = (-211, -593, -2);
+            angles = (0, 135, 0);
+            break;
+
+        default:
+            return; // If the map isn't in the list, skip spawning
+    }
 
     // Spawn physical machine model
     machine = spawn("script_model", origin);
