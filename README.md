@@ -38,3 +38,10 @@ This is an open work-in-progress — pull requests, forks, and edits are welcome
 ## Disclaimer
 
 This is an unofficial, fan-made modification for use with Plutonium. It is not affiliated with or endorsed by Activision or Treyarch.
+
+## Updates
+
+supported maps:
+zm_theater // Kino Der Toten
+zm_prototype // Nacht der Untoten
+zm_factory // Der Riese
